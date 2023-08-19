@@ -1,1 +1,0 @@
-## Creating modern educational software
